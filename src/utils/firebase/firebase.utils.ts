@@ -22,13 +22,15 @@ import {AdditionalInformation, UserData} from "../../types";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAURDXg92oTkhNwCTAh8ytpt9Dm5dbOSGo",
-  authDomain: "crwn-clothing-123-1b021.firebaseapp.com",
-  projectId: "crwn-clothing-123-1b021",
-  storageBucket: "crwn-clothing-123-1b021.appspot.com",
-  messagingSenderId: "101931526624",
-  appId: "1:101931526624:web:969682f14b1809c5736385"
+  apiKey: "AIzaSyB3FeKiI_nnTlPKY-jTcl6rcmLEVPOxKi8",
+  authDomain: "ktpmud-60e62.firebaseapp.com",
+  projectId: "ktpmud-60e62",
+  storageBucket: "ktpmud-60e62.appspot.com",
+  messagingSenderId: "312245021413",
+  appId: "1:312245021413:web:6a5d92055d63793603820c",
+  measurementId: "G-0QFLH6RDZC"
 };
+
 
 const firebaseApp = initializeApp(firebaseConfig);
 
